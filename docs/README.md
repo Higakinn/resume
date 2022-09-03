@@ -6,9 +6,6 @@
 |---|---|
 |氏名|Higakinn|
 |生年月日| 1997年 5月17日|
-|Twitter|https://twitter.com/qzgw8|
-|Qiita|https://qiita.com/higakin|
-|Zenn|https://zenn.dev/gakin|
 <!-- |note|| -->
 <!-- |SpeakerDeck|| -->
 
